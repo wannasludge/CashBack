@@ -7,4 +7,3 @@ public class CashBackService {
         return boundary - amount % boundary;
     }
 }
-
